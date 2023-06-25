@@ -175,7 +175,7 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Partners + Donut',
           de: 'Partner + Donut',
           fr: 'Partenaires + Donut',
-          ja: 'ペア頭割り + ドーナツ範囲'
+          ja: 'ペア頭割り + ドーナツ範囲',
           cn: '双人分摊 + 月环',
           ko: '파트너 + 도넛',
         },
@@ -491,7 +491,7 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Bait dash',
           de: 'Sprung ködern',
           fr: 'Encaissez le saut',
-          ja: '突進誘導'
+          ja: '突進誘導',
           cn: '引导BOSS',
           ko: '돌진 유도',
         },
@@ -499,7 +499,7 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Soak tower',
           de: 'Im Turm stehen',
           fr: 'Prenez votre tour',
-          ja: '塔を踏む'
+          ja: '塔を踏む',
           cn: '踩塔',
           ko: '기둥 들어가기',
         },
